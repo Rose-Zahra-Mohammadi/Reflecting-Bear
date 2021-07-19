@@ -1,1 +1,2 @@
 # Reflecting-Bear
+Panda Bear is confused. He is trying to work out how things should look when reflected in a mirror, but is getting the wrong results. In Bear's coordinates, the mirror lies along the first axis. But, as is the way with bears, his coordinate system is not orthonormal: so what he thinks is the direction perpendicular to the mirror isn't actually the direction the mirror reflects in. Help Bear write a code that will do his matrix calculations properly!
